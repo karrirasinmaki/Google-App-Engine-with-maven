@@ -12,7 +12,8 @@ http://maven.apache.org/
 
 Templates
 ---------
-**testapp** *skeleton-archetype*  
+####testapp 
+*skeleton-archetype*  
 Empty skeleton with very minimal depedencies  
 **build**
 perform these commands:  
