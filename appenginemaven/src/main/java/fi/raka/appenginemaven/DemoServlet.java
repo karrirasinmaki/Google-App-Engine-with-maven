@@ -10,7 +10,8 @@ public class DemoServlet extends HttpServlet {
   @Override
   public void doGet(HttpServletRequest req, HttpServletResponse resp)
       throws IOException {
-    
+
+      resp.getWriter().println("Hello Maven!");
       resp.getWriter().println("Hello Maven!");
   }
 }
