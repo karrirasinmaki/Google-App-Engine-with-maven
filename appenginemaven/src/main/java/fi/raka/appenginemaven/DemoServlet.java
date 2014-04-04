@@ -12,6 +12,5 @@ public class DemoServlet extends HttpServlet {
       throws IOException {
 
       resp.getWriter().println("Hello Maven!");
-      resp.getWriter().println("Hello Maven!");
   }
 }
